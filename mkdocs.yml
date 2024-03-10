@@ -1,3 +1,6 @@
 site_name: AX3000C
+site_url: https://pt13762104.github.io/ax3000c/
+repo_url: https://github.com/pt13762104/Ax3000c/
 theme: 
   name: material
+
